@@ -16,9 +16,9 @@ consider submitting pull requests.
 Screenshots
 ===========
 
-![Screenshot of the file list](screenshots/file-list.png)
+![Screenshot of the file list](https://raw.githubusercontent.com/jphalip/gitinspect/master/screenshots/file-list.png)
 
-![Screenshot of the detail window](screenshots/detail-window.png)
+![Screenshot of the detail window](https://raw.githubusercontent.com/jphalip/gitinspect/master/screenshots/detail-window.png)
 
 Building the development environment
 ====================================
