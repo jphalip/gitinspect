@@ -1,0 +1,13 @@
+{
+  "name"    : "app",
+  "version" : "0.1.0",
+  "main"    : "main.js",
+  "devDependencies": {
+      "shelljs": "^0.3.0",
+      "jquery": "^1.11.1",
+      "humanize": "^0.0.9",
+      "react": "^0.12.2",
+      "react-bootstrap": "^0.14.1"
+  },
+  "private": true
+}
